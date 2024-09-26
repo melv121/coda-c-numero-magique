@@ -32,6 +32,9 @@ printf("Bienvenue dans le jeu du nombre magique !\n");
     return 0;
 }
 
-
-
-    
+/* bonus */
+/*
+if (proposition < 1 || proposition > 100) {
+            printf("Veuillez entrer un nombre entre 1 et 100.\n");
+            continue; }
+*/
